@@ -43,9 +43,11 @@ Driven by a passion for **algorithms, AI/ML, and software engineering**. I combi
 
 ---
 
-## 📫 Connect with Me  
-[![Email](https://img.shields.io/badge/Email-brynjaschultz%40nyu.edu-red?logo=gmail&logoColor=white)](mailto:brynjaschultz@nyu.edu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynjaschultz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brynja-schultz)
+## 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-brynjaschultz%40nyu.edu-red?logo=gmail&logoColor=white)](mailto:brynjaschultz@nyu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynjaschultz)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/brynja-schultz)
+
 
 ---
