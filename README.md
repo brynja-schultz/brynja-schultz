@@ -5,30 +5,48 @@ Passionate about building efficient, scalable software solutions — from algori
 
 ---
 
-## 🛠 Tech Stack  
-**Languages:** Python · Java · C · SQL  
-**Core Skills:** Algorithms & Data Structures · Machine Learning · Systems Programming · Object-Oriented Design · Data Analysis  
-**Tools & Platforms:** Git · GitHub · Linux · Jupyter Notebooks · Make · GCC/GDB
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-006400?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-333333?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Work
 
-- **[My Personalized Fitness Tracker](https://github.com/rren4000/MyPersonalizedFitnessTracker)** – Java-based OOP application for tracking health data, goals, and activity analytics.  
-- **[Operating Systems Labs](https://github.com/brynja-schultz/NYU-CSCI-UA-202-Operating-Systems)** – Systems programming in C, covering process management, concurrency, and file systems.  
-- **[Stanford Machine Learning Labs](https://github.com/brynja-schultz/Stanford-Online-Machine-Learning)** – Implementing core ML algorithms and concepts through Stanford Online & DeepLearning.AI labs.  
-- **[NLP Final Project](https://github.com/brynja-schultz/NLP_Final_Project)** – Natural language processing pipeline with data preprocessing, model training, and evaluation.  
+### [Stanford-Online-Machine-Learning](https://github.com/brynja-schultz/Stanford-Online-Machine-Learning)
+Lab solutions from the Stanford Online & DeepLearning.AI ML Specialization, covering core algorithms and concepts in supervised, unsupervised, and applied machine learning. *(Jupyter Notebook)*
 
-*(See more in my [repositories](https://github.com/brynja-schultz?tab=repositories))*  
+### [NLP Final Project](https://github.com/rachelren2025/NLP_Final_Project)
+Natural language processing pipeline with preprocessing, model training, and evaluation for sentiment classification. *(Python)*
+
+### [My Personalized Fitness Tracker](https://github.com/rren4000/MyPersonalizedFitnessTracker)
+Java-based OOP application for tracking health metrics, goals, and activity analytics. *(Java)*
+
+### [NYU-CSCI-UA-310-Basic-Algorithms](https://github.com/brynja-schultz/NYU-CSCI-UA-310-Basic-Algorithms)
+Java implementations of foundational algorithms from NYU’s CSCI-UA 310 course, focusing on efficiency and complexity analysis. *(Java)*
+
+### [NYU-CSCI-UA-480-Computer-Graphics](https://github.com/brynja-schultz/NYU-CSCI-UA-480-Computer-Graphics)
+Blender-based projects exploring 3D modeling, animation, and rendering techniques. *(Blender)*
+
+### [HackerRank](https://github.com/brynja-schultz/HackerRank)
+Python solutions to HackerRank coding challenges, organized by difficulty and topic. *(Python)*
 
 ---
 
-## 📈 Current Focus  
-- Expanding portfolio with applied machine learning projects.  
-- Practicing coding challenges on HackerRank & LeetCode to refine problem-solving speed.  
-- Exploring data visualization and interactive dashboards.
+## 📈 Current Focus
+- Expanding portfolio with applied machine learning and data visualization projects.  
+- Strengthening competitive programming skills on HackerRank and LeetCode.  
+- Exploring interactive dashboards and full-stack applications.
 
 ---
 
 ## 📫 Connect with Me  
-[LinkedIn](https://www.linkedin.com/in/brynja-schultz) · [GitHub](https://github.com/brynja-schultz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynja-schultz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brynja-schultz)
