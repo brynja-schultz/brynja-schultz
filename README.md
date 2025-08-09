@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brynja Schultz
 
 **NYU Computer Science Graduate (Minor in Mathematics)**  
-Passionate about algorithms, AI/ML, and software engineering — blending strong problem-solving skills with practical development experience. My work spans academic projects, self-driven learning, and competitive programming.
+Passionate about **algorithms, AI/ML, and software engineering** — blending strong problem-solving skills with practical development experience. My work spans academic projects, self-driven learning, and competitive programming.
 
 ---
 
