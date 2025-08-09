@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brynja Schultz
 
 **NYU Computer Science Graduate (Minor in Mathematics)**  
-Passionate about building efficient, scalable software solutions — from algorithms and operating systems to machine learning and data-driven applications.
+Passionate about algorithms, AI/ML, and software engineering — blending strong problem-solving skills with practical development experience. My work spans academic projects, self-driven learning, and competitive programming.
 
 ---
 
@@ -21,22 +21,22 @@ Passionate about building efficient, scalable software solutions — from algori
 ## 📌 Featured Work
 
 ### [Stanford-Online-Machine-Learning](https://github.com/brynja-schultz/Stanford-Online-Machine-Learning)
-Lab solutions from the Stanford Online & DeepLearning.AI ML Specialization, covering core algorithms and concepts in supervised, unsupervised, and applied machine learning. *(Jupyter Notebook)*
+Lab implementations from Stanford Online & DeepLearning.AI’s Machine Learning Specialization, covering supervised/unsupervised learning, model evaluation, and optimization techniques. *(Python · NumPy · scikit-learn · Jupyter)*
 
 ### [NLP Final Project](https://github.com/rachelren2025/NLP_Final_Project)
-Natural language processing pipeline with preprocessing, model training, and evaluation for sentiment classification. *(Python)*
-
-### [My Personalized Fitness Tracker](https://github.com/rren4000/MyPersonalizedFitnessTracker)
-Java-based OOP application for tracking health metrics, goals, and activity analytics. *(Java)*
+End-to-end NLP pipeline for text classification, including preprocessing, feature engineering, model training, and performance evaluation. *(Python · NLTK · scikit-learn)*
 
 ### [NYU-CSCI-UA-310-Basic-Algorithms](https://github.com/brynja-schultz/NYU-CSCI-UA-310-Basic-Algorithms)
-Java implementations of foundational algorithms from NYU’s CSCI-UA 310 course, focusing on efficiency and complexity analysis. *(Java)*
+Java implementations of classic algorithms and data structures, focusing on efficiency, complexity analysis, and interview-style problem solving. *(Java · Algorithm Design · Data Structures)*
 
-### [NYU-CSCI-UA-480-Computer-Graphics](https://github.com/brynja-schultz/NYU-CSCI-UA-480-Computer-Graphics)
-Blender-based projects exploring 3D modeling, animation, and rendering techniques. *(Blender)*
+### [My Personalized Fitness Tracker](https://github.com/rren4000/MyPersonalizedFitnessTracker)
+Java application enabling personalized fitness tracking, goal setting, and analytics. Features file-based persistence, modular OOP design, and a user-friendly CLI. *(Java · OOP · File I/O)*
 
 ### [HackerRank](https://github.com/brynja-schultz/HackerRank)
-Python solutions to HackerRank coding challenges, organized by difficulty and topic. *(Python)*
+Solutions to algorithm and data structure challenges from HackerRank, organized by difficulty and topic. Demonstrates continuous problem-solving practice. *(Python)*
+
+### [NYU-CSCI-UA-480-Computer-Graphics](https://github.com/brynja-schultz/NYU-CSCI-UA-480-Computer-Graphics)
+3D modeling and rendering projects using Blender, developed for NYU’s Computer Graphics course. Explores lighting, textures, and animation workflows. *(Blender · 3D Modeling)*
 
 ---
 
