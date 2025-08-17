@@ -5,7 +5,7 @@ Driven by a passion for **algorithms, AI/ML, and software engineering**. I combi
 
 ---
 
-## 💡 Highlights & Achievements
+## Highlights & Achievements
 
 * **Machine Learning:** Completed Stanford Online & DeepLearning.AI’s Machine Learning Specialization; applied NLP techniques to evaluate and fine-tune BERT-based models for legal question answering.
 * **Software Development:** Designed and implemented a Java-based personalized fitness tracker with SOLID principles, modular OOP design, and file-based persistence.
@@ -14,7 +14,7 @@ Driven by a passion for **algorithms, AI/ML, and software engineering**. I combi
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ Driven by a passion for **algorithms, AI/ML, and software engineering**. I combi
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 [![Email](https://img.shields.io/badge/brynjaschultz%40nyu.edu-red?logo=gmail&logoColor=white)](mailto:brynjaschultz@nyu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynjaschultz)
