@@ -1,4 +1,4 @@
-## Hi, I'm Brynja Schultz##
+## Hi, I'm Brynja Schultz!
 
 **Recent Computer Science Graduate – New York University** · **Minor in Mathematics**  
 Driven by a passion for **algorithms, AI/ML, and software engineering**. I combine a strong academic foundation with hands-on projects in data structures, machine learning, NLP, and software design.
