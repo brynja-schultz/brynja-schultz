@@ -1,6 +1,4 @@
-<h1>
-  <img src="./assets/wave.gif" width="28" alt="wave"> Hi, I'm Brynja Schultz
-</h1>
+## Hi, I'm Brynja Schultz##
 
 **Recent Computer Science Graduate – New York University** · **Minor in Mathematics**  
 Driven by a passion for **algorithms, AI/ML, and software engineering**. I combine a strong academic foundation with hands-on projects in data structures, machine learning, NLP, and software design.
