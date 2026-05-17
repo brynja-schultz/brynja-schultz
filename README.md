@@ -42,13 +42,3 @@ Driven by a passion for **algorithms, AI/ML, and software engineering**. I combi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## Connect with Me
-
-[![Email](https://img.shields.io/badge/brynjaschultz%40nyu.edu-red?logo=gmail&logoColor=white)](mailto:brynjaschultz@nyu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynjaschultz)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/brynja-schultz)
-
----
