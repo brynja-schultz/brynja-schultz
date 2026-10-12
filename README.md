@@ -8,4 +8,4 @@ Interested in **machine learning, data science, and computational biology**.
 
 Python · SQL · Java · PyTorch · scikit-learn · pandas · Git · Docker · AWS
 
-[LinkedIn](https://linkedin.com/in/brynjaschultz) · [Email](mailto:brynjaschultz@nyu.edu)
+[Portfolio](https://brynjaschultz.com) · [LinkedIn](https://linkedin.com/in/brynjaschultz) · [Email](mailto:brynjaschultz@nyu.edu)
